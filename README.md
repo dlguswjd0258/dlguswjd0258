@@ -3,6 +3,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlguswjd0258)](https://solved.ac/dlguswjd0258)
 
 [![dlguswjd0258's github stats](https://github-readme-stats.vercel.app/api?username=dlguswjd0258&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dlguswjd0258)](https://github.com/dlguswjd0258) 
+
 <!--
 **dlguswjd0258/dlguswjd0258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
